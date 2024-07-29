@@ -1,0 +1,21 @@
+*{
+    list-style: none;
+}
+h1 {
+    color: #f00;
+    text-align: center;
+}
+
+nav  {
+    display: flex;
+    justify-content: center;
+    
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
